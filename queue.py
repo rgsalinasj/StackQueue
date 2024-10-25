@@ -30,3 +30,5 @@ push agrega un elemento al final de la cola.
 pop elimina y devuelve el primer elemento de la cola.
 peek devuelve el primer elemento sin eliminarlo.
 size devuelve el número de elementos en la cola.
+
+"cambio 1"
